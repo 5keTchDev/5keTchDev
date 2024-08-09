@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5ketchdev&show_icons=true&locale=en" alt="5ketchdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5ketchdev&" alt="5ketchdev" /></p>
 
