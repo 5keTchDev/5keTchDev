@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Java,Blockchain,Ethereum,Web Devlopment**
+- 💬 Ask me about **Java, Blockchain, Ethereum, Web Development**
 
 - 📫 How to reach me **sharma18mohit2018@gmail.com**
 
