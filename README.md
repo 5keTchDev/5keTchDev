@@ -1,7 +1,5 @@
-
 <h1 >Hi 👋, I'm M0H1T</h1>
-<h2 >An Software Engineer</h2><img  width="400" src="https://github.com/user-attachments/assets/92be4dab-26a1-46e5-bddd-9f3b2b25abb2"  align="right" alt="coding">
-
+<h2 >An Software Engineer</h2>
 
 - 🔭 I’m currently working on **Jobspire**
 
