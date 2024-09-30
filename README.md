@@ -1,13 +1,13 @@
 <h1 >Hi 👋, I'm M0H1T</h1>
-<h2 >An Software Engineer</h2>
+<h2 >🏄‍♂️Software Engineer</h2>
 
-- 🔭 I’m currently working on **Jobspire**
+- 📒 I’m currently working on **Jobspire**
 
 - 🌱 I’m currently learning **MERN Stack**
   
-- 👯 I’m looking to collaborate on **Blockchain**
+- 🌋 I’m looking to collaborate on **Blockchain**
    
-- 💬 Ask me about **Java,Blockchain,Ethereum,Web Devlopment**
+- 💬 Ask me about **Java, Blockchain, Ethereum, Web-Development**
   
 - 📫 How to reach me **sharma18mohit2018@gmail.com**
 
