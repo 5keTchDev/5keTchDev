@@ -1,5 +1,5 @@
-<h1 >Hi 👋, I'm M0H1T</h1>
-<h2 >🏄‍♂️Software Engineer</h2>
+<h1>  Hi 👋, I'm M0H1T</h1>
+<h2> 🏄‍♂️Software Engineer</h2>
 
 - 📒 I’m currently working on **Jobspire**
 
